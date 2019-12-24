@@ -25,6 +25,6 @@ MyProject\Intermediate\ProjectFiles.
 Instead, click the "Browse" button and change it to:
 MyProject\Source\MyProject.
 
-And, of course, give a more meaningful name other than the default supplied.
+And, of course, give a more meaningful name other than the default supplied. Note that the next time you add a class in the same edit session, the location will be correct. This only seems to happen with Unreal projects in VS and I think it's due to the fact that they've set the project directory to that intermediate dir ProjectFiles.
 
 See the install.txt file for instructions on how to isntall.
