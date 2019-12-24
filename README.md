@@ -1,7 +1,7 @@
 # VS-UE4-Templates
 A set of C++ item templates for Visual Studio for Unreal Engine to enable creating of new classes from VS instead of the Unreal Editor.
 
-I no longer use the Unreal editor to create classes because it's inconvenient to keep switching back and forth between visual studio and the engine editor. Also, the templates that the engine uses mostly generate empty classes which are not much use. My templates provide you with constructors and the most often used member functions for the relevant class.
+I no longer use the Unreal editor to create classes because it's inconvenient to keep switching back and forth between visual studio and the engine editor. Also, the templates that the engine uses mostly generate empty classes which are not much use. My templates provide you with constructors and the most often used member functions for the relevant class. Plus, in some cases where appropriate, some basic setup and initialisation in the .cpp file.
 
 One thing I haven't yet worked out how to do is the _API macro. So for a simple actor class like this:
 UCLASS()
