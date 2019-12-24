@@ -1,0 +1,5 @@
+To install just copy the zip files to the relevant template folder which is typically in the documents folder similar to this:
+Documents\Visual Studio 2017\Templates\ItemTemplates for VS2017 or 
+Documents\Visual Studio 2019\Templates\ItemTemplates for VS2019
+
+or whatever the version of your IDE is.
